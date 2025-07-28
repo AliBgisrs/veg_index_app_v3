@@ -1,0 +1,29 @@
+# Python cache & compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+env/
+
+# Environment variables
+.env
+
+# Logs & temporary files
+*.log
+*.tmp
+*.bak
+
+# Flask instance & uploads
+instance/
+uploads/
+*.xlsx
+*.zip
+
+# IDE specific
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
